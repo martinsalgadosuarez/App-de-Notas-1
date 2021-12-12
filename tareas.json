@@ -1,0 +1,38 @@
+[
+    {
+        "Titulo": "Resolver ejercicios de Playground",
+        "Estado": "terminada"
+    },
+    {
+        "Titulo": "Estudiar Javascript",
+        "Estado": "En Proceso"
+    },
+    {
+        "Titulo": "Estudiar Ingles",
+        "Estado": "En Proceso"
+    },
+    {
+        "Titulo": "Ordenar Archivos en mi Pc",
+        "Estado": "Terminada"
+    },
+    {
+        "Titulo": "Pintar mi Casa",
+        "Estado": "Pendiente"
+    },
+    {
+        "Titulo": "Anotarme en el Gimnasio",
+        "Estado": "Pendiente"
+    },
+    {
+        "Titulo": "realizar Back-up de Fotos",
+        "Estado": "Terminada"
+    },
+    {
+        "Titulo": "Ir de Compras",
+        "Estado": "Pendiente"
+    },
+    {
+        "Titulo": "Confeccionar App de Notas",
+        "Estado": "Terminada"
+    }
+]
